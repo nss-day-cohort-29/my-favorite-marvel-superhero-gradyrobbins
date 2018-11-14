@@ -1,0 +1,19 @@
+html {
+    background-color: aqua;
+    font-family: fantasy;
+}
+header {
+    background-color: aquamarine;
+    color: black;
+    font-size: 3em;
+    text-align: center;
+}
+.ocean {
+    display: flex;
+    justify-content: center;
+}
+
+.bloop {
+    display: flex;
+    justify-content: center;
+}
